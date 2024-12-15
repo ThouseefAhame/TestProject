@@ -38,7 +38,7 @@ public class TestMethods {
 	@AfterTest
 	public void aftertest()
 	{
-		//driver.quit();
+		driver.quit();
 	}
 	
 
